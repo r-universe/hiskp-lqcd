@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hadron"]
+	path = hadron
+	url = https://github.com/hiskp-lqcd/hadron
+	shallow = true
+	registered = true
 [submodule "qsimulatR"]
 	path = qsimulatR
 	url = https://github.com/hiskp-lqcd/qsimulatr
