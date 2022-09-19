@@ -1,9 +1,5 @@
 [
   {
-    "package": "hadron",
-    "oncran": true
-  },
-  {
     "package": "qsimulatR",
     "oncran": true
   }
